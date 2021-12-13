@@ -1,5 +1,5 @@
 # 99-bottles-of-beer-challenge
-How to make your computer recite the most boring song ever invented: http://www.99-bottles-of-beer.net/lyrics.html 
+How to make your computer recite the most boring song ever invented: [99BootlesOfBeer](http://www.99-bottles-of-beer.net/lyrics.html)
 
 ## Starting Condition 
 Start with 99 bottles.
